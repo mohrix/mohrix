@@ -3,7 +3,7 @@
 
 🛡️ Cybersecurity • 💻 Programming • 🐧 Linux • 🌐 Networking
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Cybersecurity+Learner;Python+Developer;Linux+%26+Termux+Enthusiast;Networking+%26+Web+Security;Building+%7C+Testing+%7C+Learning" /><br><img src="https://img.shields.io/badge/CYBERSECURITY-8B5CF6?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&enter=true&vCenter=true&width=650&lines=Cybersecurity+Learner;Python+Developer;Linux+%26+Termux+Enthusiast;Networking+%26+Web+Security;Building+%7C+Testing+%7C+Learning" /><br><img src="https://img.shields.io/badge/CYBERSECURITY-8B5CF6?style=for-the-badge&logo=hackthebox&logoColor=white" />
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/TERMUX-000000?style=for-the-badge&logo=termux&logoColor=white" /></div>---
@@ -266,7 +266,7 @@ Secure
 
 🌐 Connect
 
-<div align="center"><a href="https://github.com/YOUR_USERNAME">
+<div align="center"><a href="https://github.com/mohrix">
 <img src="https://img.shields.io/badge/GitHub-Moh%20DZ-181717?style=for-the-badge&logo=github" />
 </a></div>---
 
@@ -274,7 +274,7 @@ Secure
 
 LEARN • BUILD • TEST • SECURE 🇩🇿
 
-<br><img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=8B5CF6" /></div>
+<br><img src="https://komarev.com/ghpvc/?username=mohrix&style=for-the-badge&color=8B5CF6" /></div>
 <!--
 **mohrix/mohrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
