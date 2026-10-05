@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6D28D9,100:06B6D4&height=200&section=header&text=MOH%20DZ&fontSize=68&fontColor=FFFFFF&fontAlignY=42&desc=PENETRATION%20TESTING%20%E2%80%A2%20CYBERSECURITY%20%E2%80%A2%20SECURITY%20LABS&descAlignY=64&descSize=14&animation=fadeIn" width="100%" alt="MOH DZ"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:6D28D9,75:8B5CF6,100:06B6D4&height=220&section=header&text=MOH%20DZ&fontSize=72&fontColor=FFFFFF&fontAlignY=40&desc=PENETRATION%20TESTING%20%E2%80%A2%20CYBERSECURITY%20%E2%80%A2%20SECURITY%20LABS&descAlignY=62&descSize=14&animation=fadeIn" width="100%" alt="MOH DZ"/>
 
 <a href="https://github.com/mohrix">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Penetration+Testing;Web+Security;Network+Security;Linux+%26+Termux;Python+Security+Automation;Security+Labs+%26+CTF;Learn+%E2%80%A2+Build+%E2%80%A2+Test+%E2%80%A2+Secure" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=680&lines=Penetration+Testing;Web+Security;Network+Security;Linux+%26+Termux;Python+Security+Automation;Security+Labs+%26+CTF;Learn+%E2%80%A2+Build+%E2%80%A2+Test+%E2%80%A2+Secure" alt="Typing SVG"/>
 </a>
 
 
@@ -17,10 +17,10 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/LINUX-1E1B4B?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+<img src="https://img.shields.io/badge/LINUX-1E1B4B?style=for-the-badge&logo=linux&logoColor=06B6D4" alt="Linux"/>
 <img src="https://img.shields.io/badge/TERMUX-0F172A?style=for-the-badge&logo=android&logoColor=06B6D4" alt="Termux"/>
 <img src="https://img.shields.io/badge/PYTHON-0E7490?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/BASH-111827?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+<img src="https://img.shields.io/badge/BASH-111827?style=for-the-badge&logo=gnubash&logoColor=06B6D4" alt="Bash"/>
 <img src="https://img.shields.io/badge/GIT-6D28D9?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 
 
@@ -115,18 +115,11 @@ All security testing is performed only in owned systems, authorized environments
 
 <br/>
 
-🚀 Featured Projects
+🚀 Featured Repositories
 
-Pinned repositories appear automatically at the top of this profile.
-As new projects are created, they surface here through GitHub's pinned-repo system — no manual README edits required.
+Auto-synced with GitHub. Pinned repositories appear at the top of this profile — any new project that is pinned surfaces here automatically, no README edits needed.
 
-How this section stays current
-
-· Pin repositories — any new project pinned to mohrix appears on the profile instantly
-· Consistent repository setup — each project uses a README, license, and short description
-· Documented as it grows — labs, tools, writeups, and learning projects all follow the same standard
-
-Project Categories
+Repositories will appear in the following categories:
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -140,6 +133,72 @@ Project Categories
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
+
+To surface a project here:
+
+1. Create the repository on mohrix
+2. Add a README.md with description, usage, and status
+3. Pin the repository from the profile page
+4. It appears instantly on this profile — no manual edits to this README required
+
+<br/>
+
+---
+
+<br/>
+
+🧰 Tools I Built
+
+Scripts, utilities, and lab helpers developed along the way.
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  STATUS        │  PROJECT TYPE              │  STAGE        │
+├────────────────┼────────────────────────────┼───────────────┤
+│  Building      │  Python security utilities │  In progress  │
+│  Building      │  Termux automation scripts │  In progress  │
+│  Exploring     │  HTTP / recon helpers      │  Exploring    │
+│  Planned       │  Lab setup scripts         │  Planned      │
+│  Planned       │  CTF helper tools          │  Planned      │
+└──────────────────────────────────────────────────────────────┘
+```
+
+Every tool follows the same standard:
+
+· Clear purpose documented in the README
+· Usage examples with commands
+· Tested in a controlled lab environment
+· Honest status — Building · Working · Archived
+
+<br/>
+
+---
+
+<br/>
+
+📝 Writeups
+
+Structured writeups of CTF challenges and laboratory exercises — approach, reasoning, and lessons learned.
+
+Writeup format
+
+```
+TARGET      →  What was tested
+APPROACH    →  Reconnaissance and enumeration steps
+FINDINGS    →  What was observed (technically explained)
+RESULT      →  Conclusion and impact
+LESSONS     →  What was learned, what to improve
+```
+
+Planned writeup categories
+
+· Web application security challenges
+· Network enumeration exercises
+· Linux privilege concepts (lab only)
+· Authentication & access-control labs
+· Methodology notes from structured practice
+
+Writeups will be published as separate repositories under mohrix and pinned here.
 
 <br/>
 
@@ -229,42 +288,6 @@ Active areas of work and study:
 ```
 
 All testing in the lab is performed on owned systems and controlled environments — no unauthorized targets.
-
-<br/>
-
----
-
-<br/>
-
-▍ Security Toolkit
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,nodejs,git,github,html,css,js&theme=dark&perline=9" alt="Toolkit"/>
-</p>
-
-Reconnaissance
-
-https://img.shields.io/badge/Nmap-Lab_Use-0E7490?style=flat-square&logo=nmap&logoColor=white
-https://img.shields.io/badge/cURL-Learning-111827?style=flat-square&logo=curl&logoColor=white
-https://img.shields.io/badge/DNS_Utilities-Learning-1E1B4B?style=flat-square&logo=internetcomputer&logoColor=white
-
-Network
-
-https://img.shields.io/badge/OpenSSH-Learning-1E1B4B?style=flat-square&logo=openssh&logoColor=white
-https://img.shields.io/badge/iproute2-Learning-0F172A?style=flat-square&logo=linux&logoColor=06B6D4
-
-Web
-
-https://img.shields.io/badge/Browser_DevTools-Learning-7C3AED?style=flat-square&logo=googlechrome&logoColor=white
-https://img.shields.io/badge/OWASP_Tooling-Exploring-8B5CF6?style=flat-square&logo=owasp&logoColor=white
-
-Environment & Automation
-
-https://img.shields.io/badge/Termux-Active-0F172A?style=flat-square&logo=android&logoColor=06B6D4
-https://img.shields.io/badge/Linux-Active-1E1B4B?style=flat-square&logo=linux&logoColor=white
-https://img.shields.io/badge/Git-Active-6D28D9?style=flat-square&logo=git&logoColor=white
-https://img.shields.io/badge/Python-Active-0E7490?style=flat-square&logo=python&logoColor=white
-https://img.shields.io/badge/Bash-Active-111827?style=flat-square&logo=gnubash&logoColor=white
 
 <br/>
 
@@ -393,6 +416,42 @@ Focus — Linux CLI · Bash scripting · Filesystems · Permissions · Processes
 Methodology is a discipline, not a checklist. Each phase informs the next — reconnaissance shapes enumeration, enumeration drives analysis, and validated findings lead to documentation, remediation, and retest.
 
 Performed only in authorized environments, labs, CTFs, and systems where explicit permission exists.
+
+<br/>
+
+---
+
+<br/>
+
+▍ Security Toolkit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,nodejs,git,github,html,css,js&theme=dark&perline=9" alt="Toolkit"/>
+</p>
+
+Reconnaissance
+
+https://img.shields.io/badge/Nmap-Lab_Use-0E7490?style=flat-square&logo=nmap&logoColor=white
+https://img.shields.io/badge/cURL-Learning-111827?style=flat-square&logo=curl&logoColor=06B6D4
+https://img.shields.io/badge/DNS_Utilities-Learning-1E1B4B?style=flat-square&logo=internetcomputer&logoColor=06B6D4
+
+Network
+
+https://img.shields.io/badge/OpenSSH-Learning-1E1B4B?style=flat-square&logo=openssh&logoColor=06B6D4
+https://img.shields.io/badge/iproute2-Learning-0F172A?style=flat-square&logo=linux&logoColor=06B6D4
+
+Web
+
+https://img.shields.io/badge/Browser_DevTools-Learning-7C3AED?style=flat-square&logo=googlechrome&logoColor=white
+https://img.shields.io/badge/OWASP_Tooling-Exploring-8B5CF6?style=flat-square&logo=owasp&logoColor=white
+
+Environment & Automation
+
+https://img.shields.io/badge/Termux-Active-0F172A?style=flat-square&logo=android&logoColor=06B6D4
+https://img.shields.io/badge/Linux-Active-1E1B4B?style=flat-square&logo=linux&logoColor=06B6D4
+https://img.shields.io/badge/Git-Active-6D28D9?style=flat-square&logo=git&logoColor=white
+https://img.shields.io/badge/Python-Active-0E7490?style=flat-square&logo=python&logoColor=white
+https://img.shields.io/badge/Bash-Active-111827?style=flat-square&logo=gnubash&logoColor=06B6D4
 
 <br/>
 
@@ -635,6 +694,6 @@ LEARN • BUILD • TEST • SECURE 🇩🇿
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6D28D9,100:0D1117&height=120&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:8B5CF6,100:0D1117&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
