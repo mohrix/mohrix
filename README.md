@@ -33,20 +33,31 @@
 
 </div>
 
+<br/>
+
+⚙️ Profile Status
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  MOH DZ  //  SECURITY CONSOLE                               │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   PRIMARY FOCUS  ──▶  Penetration Testing                   │
+│   WEB            ──▶  Web Security                          │
+│   NETWORK        ──▶  Network Security                      │
+│   ENVIRONMENT    ──▶  Linux / Termux                        │
+│   AUTOMATION     ──▶  Python / Bash                         │
+│   PRACTICE       ──▶  Security Labs / CTF                   │
+│   MISSION        ──▶  Learn • Build • Test • Secure         │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
 ---
 
-$ status --panel
-
-KEY VALUE
-PRIMARY FOCUS Penetration Testing
-WEB Web Security
-NETWORK Network Security
-ENVIRONMENT Linux / Termux
-AUTOMATION Python / Bash
-PRACTICE Security Labs / CTF
-MISSION Learn • Build • Test • Secure
-
----
+<br/>
 
 ▍ About
 
@@ -54,16 +65,24 @@ MOH DZ — cybersecurity learner and builder working toward penetration testing 
 
 I work primarily from a Linux / Termux environment, using a mobile-first workflow as a discipline for understanding how systems actually behave. My focus is real comprehension — not memorization — of protocols, services, requests, and controls.
 
+Profile
+
 · Direction — Penetration Testing · Cybersecurity
 · Environment — Linux · Termux
 · Automation — Python · Bash
+
+Scope
+
 · Domains — Web Security · Network Security · OSINT · CTF · Security Labs
 · Practice — Local labs · controlled testing · technical documentation
-· Philosophy — Understand > Memorize
 
 Understand the system. Test the security. Improve the defense.
 
+<br/>
+
 ---
+
+<br/>
 
 🛡️ Security Identity
 
@@ -78,146 +97,144 @@ PENETRATION TESTING
 Supporting Domains
 
 ```
-WEB SECURITY  ·  NETWORK SECURITY  ·  LINUX SECURITY
-        │                │                  │
-        └────────────────┼──────────────────┘
-                         ▼
-        SECURITY AUTOMATION  ·  OSINT
-                         │
-                         ▼
-            CTF  ·  SECURITY LABS
+WEB SECURITY   ·   NETWORK SECURITY   ·   LINUX SECURITY
+       │                  │                  │
+       └──────────────────┼──────────────────┘
+                          ▼
+             SECURITY AUTOMATION  ·  OSINT
+                          │
+                          ▼
+               CTF  ·  SECURITY LABS
 ```
 
 All security testing is performed only in owned systems, authorized environments, educational laboratories, and CTF platforms.
 
----
-
-▍ Penetration Testing Methodology
-
-```
-RECONNAISSANCE
-      ↓
-ENUMERATION
-      ↓
-THREAT MODELING
-      ↓
-VULNERABILITY ANALYSIS
-      ↓
-CONTROLLED EXPLOITATION
-      ↓
-POST-EXPLOITATION
-      ↓
-IMPACT ANALYSIS
-      ↓
-REPORTING
-      ↓
-REMEDIATION
-      ↓
-RETEST
-```
-
-Methodology is a discipline, not a checklist. Each phase informs the next — reconnaissance shapes enumeration, enumeration drives analysis, and validated findings lead to documentation, remediation, and retest.
-
-These activities are performed only in authorized environments, labs, CTFs, and systems where explicit permission exists.
+<br/>
 
 ---
 
-🌐 Web Security
+<br/>
 
-Understanding how web applications are structured is a prerequisite for testing them meaningfully.
+🚀 Featured Projects
+
+Pinned repositories appear automatically at the top of this profile.
+As new projects are created, they surface here through GitHub's pinned-repo system — no manual README edits required.
+
+How this section stays current
+
+· Pin repositories — any new project pinned to mohrix appears on the profile instantly
+· Consistent repository setup — each project uses a README, license, and short description
+· Documented as it grows — labs, tools, writeups, and learning projects all follow the same standard
+
+Project Categories
 
 ```
-CLIENT
-   ↓
-HTTP / HTTPS       ◄── testing surface
-   ↓
-WEB SERVER         ◄── testing surface
-   ↓
-APPLICATION        ◄── testing surface
-   ↓
-API                ◄── testing surface
-   ↓
-DATABASE
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   🔐  Security Tools       — utilities & lab helpers        │
+│   🌐  Web Security Labs    — HTTP · auth · access control   │
+│   📱  Termux Projects      — mobile-first Linux tooling     │
+│   🐍  Python Automation    — scripting · recon · data       │
+│   📝  CTF Writeups         — methodology & reasoning        │
+│   📚  Learning Projects    — documented concepts            │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-Study Areas
-
-· HTTP / HTTPS — requests, responses, methods, status codes
-· Authentication & Authorization flows
-· Sessions & Cookies
-· Input Validation
-· Access Control
-· Security Headers
-· API Security
-· Web Reconnaissance
-· OWASP Top 10 concepts
-· Vulnerability Analysis
+<br/>
 
 ---
 
-🌍 Network Security
+<br/>
 
-The goal is understanding how data moves, where trust boundaries exist, and what the attack surface actually looks like — not just running a scan.
+▍ Current Project Direction
 
-```
-INTERNET
-   ↓
-FIREWALL
-   ↓
-ROUTER
-   ↓
-LOCAL NETWORK
-   ├── HOST
-   ├── SERVER
-   └── APPLICATION
-```
+Active areas of work and study:
 
-Study Areas
+· Penetration Testing — methodology, structured practice, and reporting
+· Web Security — HTTP analysis, authentication, access control, OWASP concepts
+· Network Security — TCP/IP, DNS, enumeration, service discovery
+· Python Automation — scripting for recon, data handling, and lab tasks
+· Termux Workflows — mobile-first Linux tooling and setup
+· Security Labs — reproducible, controlled environments
+· CTF Practice — challenge solving with documented reasoning
+· Cybersecurity Education — content under the Cyber Moh direction
 
-· TCP/IP · OSI Model
-· Ports · Services
-· DNS
-· HTTP / HTTPS / SSH
-· Routing & Subnetting
-· Network Enumeration
-· Service Enumeration
-· Traffic Analysis
-· Network Hardening
+<br/>
 
 ---
 
-🐧 Linux & Termux
+<br/>
 
-Linux is the primary environment. Termux is used as a mobile Linux workstation for learning, scripting, networking, and laboratory practice.
+▍ Knowledge Architecture
 
 ```
-ANDROID DEVICE
-      ↓
-   TERMUX
-      ↓
-LINUX ENVIRONMENT
-   ├── Bash
-   ├── Python
-   ├── Git
-   ├── SSH
-   ├── Nmap
-   ├── Networking Tools
-   ├── Package Management
-   └── Security Labs
+                     FOUNDATIONS
+                          │
+        ┌─────────────────┼─────────────────┐
+        │                 │                 │
+        ▼                 ▼                 ▼
+      Linux          Networking          Python
+        │                 │                 │
+        └─────────────────┼─────────────────┘
+                          ▼
+                      SECURITY
+        ┌─────────────────┼─────────────────┐
+        │                 │                 │
+        ▼                 ▼                 ▼
+   Web Security   Network Security       OSINT
+        │                 │                 │
+        └─────────────────┼─────────────────┘
+                          ▼
+               PENETRATION TESTING
+        ┌────────┬────────┼────────┬────────┐
+        │        │        │        │        │
+        ▼        ▼        ▼        ▼        ▼
+      Recon   Enum    Analysis  Testing  Reporting
+                          │
+                          ▼
+                  ADVANCED PRACTICE
+        ┌─────────────────┼─────────────────┐
+        │                 │                 │
+        ▼                 ▼                 ▼
+   Automation          Labs         CTF / Research
 ```
 
-Focus Areas
-
-· Linux CLI fundamentals
-· Bash scripting
-· Filesystems & Permissions
-· Processes & Package Management
-· SSH
-· Networking utilities
-· Automation workflows
-· Mobile-first laboratory environment
+<br/>
 
 ---
+
+<br/>
+
+🧪 Security Laboratory
+
+```
+┌─────────────────────────────────────────┐
+│  MOH DZ  //  SECURITY LAB               │
+├─────────────────────────────────────────┤
+│                                         │
+│   ├──  Linux                            │
+│   ├──  Networking                       │
+│   ├──  Web Applications                 │
+│   ├──  APIs                             │
+│   ├──  Authentication                   │
+│   ├──  Enumeration                      │
+│   ├──  Vulnerability Analysis           │
+│   ├──  Python Automation                │
+│   └──  CTF Practice                     │
+│                                         │
+│   Logs  ──▶  Analysis  ──▶  Hardening   │
+│                                         │
+└─────────────────────────────────────────┘
+```
+
+All testing in the lab is performed on owned systems and controlled environments — no unauthorized targets.
+
+<br/>
+
+---
+
+<br/>
 
 ▍ Security Toolkit
 
@@ -249,7 +266,139 @@ https://img.shields.io/badge/Git-Active-6D28D9?style=flat-square&logo=git&logoCo
 https://img.shields.io/badge/Python-Active-0E7490?style=flat-square&logo=python&logoColor=white
 https://img.shields.io/badge/Bash-Active-111827?style=flat-square&logo=gnubash&logoColor=white
 
+<br/>
+
 ---
+
+<br/>
+
+🌐 Web Security
+
+```
+   CLIENT
+     │
+     ▼
+   HTTP / HTTPS      ◄── testing surface
+     │
+     ▼
+   WEB SERVER        ◄── testing surface
+     │
+     ▼
+   APPLICATION       ◄── testing surface
+     │
+     ▼
+   API               ◄── testing surface
+     │
+     ▼
+   DATABASE
+```
+
+Study Areas — HTTP · Sessions · Cookies · Authentication · Authorization · Access Control · Input Validation · Security Headers · API Security · OWASP Top 10 · Web Reconnaissance
+
+<br/>
+
+---
+
+<br/>
+
+🌍 Network Security
+
+```
+   INTERNET
+      │
+      ▼
+   FIREWALL
+      │
+      ▼
+   ROUTER
+      │
+      ▼
+   LOCAL NETWORK
+      │
+      ├──▶  HOST
+      ├──▶  SERVER
+      └──▶  APPLICATION
+```
+
+Study Areas — TCP/IP · OSI Model · Ports · Services · DNS · HTTP/HTTPS · SSH · Routing · Subnetting · Network Enumeration · Service Enumeration · Traffic Analysis
+
+<br/>
+
+---
+
+<br/>
+
+🐧 Linux & Termux
+
+```
+   ANDROID DEVICE
+        │
+        ▼
+      TERMUX
+        │
+        ▼
+   LINUX ENVIRONMENT
+        │
+        ├── Bash
+        ├── Python
+        ├── Git
+        ├── SSH
+        ├── Nmap
+        ├── Networking Tools
+        ├── Package Management
+        └── Security Labs
+```
+
+Focus — Linux CLI · Bash scripting · Filesystems · Permissions · Processes · SSH · Networking utilities · Automation workflows
+
+<br/>
+
+---
+
+<br/>
+
+▍ Penetration Testing Methodology
+
+```
+  RECONNAISSANCE
+        │
+        ▼
+  ENUMERATION
+        │
+        ▼
+  THREAT MODELING
+        │
+        ▼
+  VULNERABILITY ANALYSIS
+        │
+        ▼
+  CONTROLLED EXPLOITATION
+        │
+        ▼
+  POST-EXPLOITATION
+        │
+        ▼
+  IMPACT ANALYSIS
+        │
+        ▼
+  REPORTING
+        │
+        ▼
+  REMEDIATION
+        │
+        ▼
+  RETEST
+```
+
+Methodology is a discipline, not a checklist. Each phase informs the next — reconnaissance shapes enumeration, enumeration drives analysis, and validated findings lead to documentation, remediation, and retest.
+
+Performed only in authorized environments, labs, CTFs, and systems where explicit permission exists.
+
+<br/>
+
+---
+
+<br/>
 
 ▍ Skills Matrix
 
@@ -267,11 +416,13 @@ Security Automation Scripting · Tooling 🟣 Building
 CTF Practical Labs 🟣 Practicing
 Documentation Notes · Writeups · Reports 🟣 Building
 
+<br/>
+
 ---
 
-💻 Programming & Automation
+<br/>
 
-Programming is used to understand systems and to automate repetitive tasks in security labs.
+💻 Programming & Automation
 
 Language Practical Role
 Python Automation · HTTP scripting · data processing · small security utilities · networking experiments
@@ -280,136 +431,11 @@ JavaScript Web application experiments · client-side concepts · web lab work
 HTML / CSS Structuring web labs · interface experiments
 Node.js Small APIs · automation scripts · web experiments
 
----
-
-🧪 Security Laboratory
-
-```
-┌─ MOH DZ — LAB ────────────────┐
-│                               │
-│   • Linux                     │
-│   • Networking                │
-│   • Web Applications          │
-│   • APIs                      │
-│   • Authentication            │
-│   • Enumeration               │
-│   • Vulnerability Analysis    │
-│   • Python Automation         │
-│   • CTF Practice              │
-│                               │
-│   Logs → Analysis → Hardening │
-│                               │
-└───────────────────────────────┘
-```
-
-All testing in the lab is performed on owned systems and controlled environments — no unauthorized targets.
+<br/>
 
 ---
 
-▍ Project Portfolio
-
-Repositories will be listed here as they are published. Nothing is listed unless it exists.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-🔐 Security Tools
-
-Utility scripts and small tools built to understand and automate security-lab workflows.
-
-Coming Soon
-
-</td>
-<td width="50%" valign="top">
-
-🌐 Web Security Labs
-
-Reproducible web application labs for practicing request analysis, authentication flows, and access control.
-
-Coming Soon
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-📱 Termux Projects
-
-Mobile-first tooling and workflow setups built directly on Termux.
-
-Coming Soon
-
-</td>
-<td width="50%" valign="top">
-
-🐍 Python Automation
-
-Automation scripts for reconnaissance, data processing, and lab management.
-
-Coming Soon
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-📝 CTF Writeups
-
-Structured writeups of CTF challenges — approach, reasoning, and lessons learned.
-
-Coming Soon
-
-</td>
-<td width="50%" valign="top">
-
-📚 Learning Projects
-
-Educational projects documenting concepts across Linux, networking, and cybersecurity.
-
-Coming Soon
-
-</td>
-</tr>
-</table>
-
----
-
-▍ Knowledge Architecture
-
-```
-                    FOUNDATIONS
-                         │
-        ┌────────────────┼────────────────┐
-        │                │                │
-        ▼                ▼                ▼
-      Linux          Networking        Python
-        │                │                │
-        └────────────────┼────────────────┘
-                         ▼
-                     SECURITY
-        ┌────────────────┼────────────────┐
-        │                │                │
-        ▼                ▼                ▼
-   Web Security   Network Security     OSINT
-        │                │                │
-        └────────────────┼────────────────┘
-                         ▼
-              PENETRATION TESTING
-        ┌────────────────┼────────────────┐
-        │        │       │       │        │
-        ▼        ▼       ▼       ▼        ▼
-      Recon   Enum    Analysis  Testing  Reporting
-                         │
-                         ▼
-                 ADVANCED PRACTICE
-        ┌────────────────┼────────────────┐
-        │                │                │
-        ▼                ▼                ▼
-   Automation         Labs             CTF / Research
-```
-
----
+<br/>
 
 ▍ Roadmap
 
@@ -428,7 +454,11 @@ Phase Focus Status
 12 Automation 🟡 In Progress
 13 CTF & Advanced Labs ⚪ Planned
 
+<br/>
+
 ---
+
+<br/>
 
 ▍ Frameworks & Standards
 
@@ -442,7 +472,11 @@ NIST Cybersecurity framework concepts
 Penetration Testing Methodology Structured testing lifecycle
 Responsible Disclosure Ethical reporting of findings
 
+<br/>
+
 ---
+
+<br/>
 
 📚 Documentation
 
@@ -462,7 +496,11 @@ What gets documented
 
 "Understand why — not just memorize commands."
 
+<br/>
+
 ---
+
+<br/>
 
 ▍ Currently Learning
 
@@ -477,7 +515,11 @@ Security Labs 🟣 Active
 CTF 🟡 Exploring
 English Cybersecurity Vocabulary 🟡 Exploring
 
+<br/>
+
 ---
+
+<br/>
 
 ▍ Current Goals
 
@@ -490,7 +532,11 @@ English Cybersecurity Vocabulary 🟡 Exploring
 ☐ Publish educational projects
 ☐ Build a strong cybersecurity portfolio
 
+<br/>
+
 ---
+
+<br/>
 
 ▍ GitHub Statistics
 
@@ -506,7 +552,11 @@ English Cybersecurity Vocabulary 🟡 Exploring
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 🌍 Open Source
 
@@ -521,7 +571,11 @@ Areas of interest for future contribution:
 
 Contributions will appear here as they are made.
 
+<br/>
+
 ---
+
+<br/>
 
 ▍ Cyber Moh — Cybersecurity Education
 
@@ -529,7 +583,10 @@ CYBER MOH is a cybersecurity education direction — teaching from the fundament
 
 Topics covered
 
-Linux · Termux · Networking · Python · Cybersecurity · OSINT · Labs · CTF · Privacy
+```
+Linux  ·  Termux  ·  Networking  ·  Python
+Cybersecurity  ·  OSINT  ·  Labs  ·  CTF  ·  Privacy
+```
 
 <p align="center">
   <a href="https://t.me/CyberMohDZ">
@@ -537,7 +594,11 @@ Linux · Termux · Networking · Python · Cybersecurity · OSINT · Labs · CTF
   </a>
 </p>
 
+<br/>
+
 ---
+
+<br/>
 
 ▍ Connect
 
@@ -550,13 +611,19 @@ Linux · Termux · Networking · Python · Cybersecurity · OSINT · Labs · CTF
   </a>
 </p>
 
+<br/>
+
 ---
+
+<br/>
 
 ▍ Responsible Security
 
 All security testing, experimentation, scanning, and research shown or referenced in this profile are intended for systems I own, authorized environments, educational laboratories, and CTF platforms.
 
 I do not encourage, promote, or support unauthorized access to any system.
+
+<br/>
 
 ---
 
