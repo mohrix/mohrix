@@ -1,31 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6D28D9,100:06B6D4&height=180&section=header&text=MOH%20DZ&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=Penetration%20Testing%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Security%20Research&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="MOH DZ"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6D28D9,100:06B6D4&height=200&section=header&text=MOH%20DZ&fontSize=72&fontColor=FFFFFF&fontAlignY=40&desc=Penetration%20Testing%20%7C%20Cybersecurity%20%7C%20Security%20Research&descAlignY=62&descSize=17&animation=fadeIn" width="100%" alt="MOH DZ"/>
 
 <a href="https://github.com/mohrix">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=680&lines=Penetration+Testing;Web+Security;Network+Security;Linux+%26+Termux;Python+Security+Automation;Security+Labs;CTF+%26+Practical+Learning;Learn+%E2%80%A2+Build+%E2%80%A2+Test+%E2%80%A2+Secure" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=680&lines=Penetration+Testing;Web+Security;Network+Security;Linux+%26+Termux;Python+Security+Automation;Security+Labs+%26+CTF;Learn+%E2%80%A2+Build+%E2%80%A2+Test+%E2%80%A2+Secure" alt="Typing SVG"/>
 </a>
 
-<br/>
-
-https://img.shields.io/badge/PENETRATION_TESTING-6D28D9?style=for-the-badge&logo=hackthebox&logoColor=white
-https://img.shields.io/badge/CYBERSECURITY-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white
-https://img.shields.io/badge/WEB_SECURITY-7C3AED?style=for-the-badge&logo=owasp&logoColor=white
-https://img.shields.io/badge/NETWORK_SECURITY-0891B2?style=for-the-badge&logo=cisco&logoColor=white
-
-https://img.shields.io/badge/LINUX-1E1B4B?style=for-the-badge&logo=linux&logoColor=white
-https://img.shields.io/badge/TERMUX-0F172A?style=for-the-badge&logo=android&logoColor=06B6D4
-https://img.shields.io/badge/PYTHON-0E7490?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/BASH-111827?style=for-the-badge&logo=gnubash&logoColor=white
-https://img.shields.io/badge/GIT-6D28D9?style=for-the-badge&logo=git&logoColor=white
-
-<br/>
-
-https://komarev.com/ghpvc/?username=mohrix&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS
-https://img.shields.io/github/followers/mohrix?style=flat-square&color=06B6D4&labelColor=0D1117&logo=github
-https://img.shields.io/badge/STATUS-BUILDING_%26_LEARNING-8B5CF6?style=flat-square&labelColor=0D1117
-
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PENETRATION_TESTING-6D28D9?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Penetration Testing"/>
+  <img src="https://img.shields.io/badge/CYBERSECURITY-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/WEB_SECURITY-7C3AED?style=for-the-badge&logo=owasp&logoColor=white" alt="Web Security"/>
+  <img src="https://img.shields.io/badge/NETWORK_SECURITY-0891B2?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Security"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LINUX-1E1B4B?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/TERMUX-0F172A?style=for-the-badge&logo=android&logoColor=06B6D4" alt="Termux"/>
+  <img src="https://img.shields.io/badge/PYTHON-0E7490?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/BASH-111827?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/GIT-6D28D9?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohrix&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/mohrix?style=flat-square&color=06B6D4&labelColor=0D1117&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/badge/STATUS-BUILDING_%26_LEARNING-8B5CF6?style=flat-square&labelColor=0D1117" alt="Status"/>
+</p>
 
 ---
 
@@ -305,35 +307,18 @@ Using Termux keeps the workflow command-line-first and forces a deeper understan
 
 ▍ Security Toolkit
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,nodejs,git,github,vscode,html,css,js&theme=dark&perline=10" alt="Toolkit"/>
+</p>
 
-Reconnaissance
-
-https://img.shields.io/badge/Nmap-0E7490?style=flat-square&logo=nmap&logoColor=white
-https://img.shields.io/badge/cURL-111827?style=flat-square&logo=curl&logoColor=white
-
-Networking
-
-https://img.shields.io/badge/OpenSSH-1E1B4B?style=flat-square&logo=openssh&logoColor=white
-
-Linux & Platform
-
-https://img.shields.io/badge/Linux-1E1B4B?style=flat-square&logo=linux&logoColor=white
-https://img.shields.io/badge/Termux-0F172A?style=flat-square&logo=android&logoColor=06B6D4
-https://img.shields.io/badge/Bash-111827?style=flat-square&logo=gnubash&logoColor=white
-
-Development
-
-https://img.shields.io/badge/Python-0E7490?style=flat-square&logo=python&logoColor=white
-https://img.shields.io/badge/Node.js-1E1B4B?style=flat-square&logo=nodedotjs&logoColor=06B6D4
-https://img.shields.io/badge/Git-6D28D9?style=flat-square&logo=git&logoColor=white
-
-Exploring
-
-https://img.shields.io/badge/Burp_Suite-8B5CF6?style=flat-square&logo=burpsuite&logoColor=white
-https://img.shields.io/badge/Wireshark-0891B2?style=flat-square&logo=wireshark&logoColor=white
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Nmap-0E7490?style=flat-square&logo=nmap&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/OpenSSH-1E1B4B?style=flat-square&logo=openssh&logoColor=white" alt="OpenSSH"/>
+  <img src="https://img.shields.io/badge/cURL-111827?style=flat-square&logo=curl&logoColor=white" alt="cURL"/>
+  <img src="https://img.shields.io/badge/Termux-0F172A?style=flat-square&logo=android&logoColor=06B6D4" alt="Termux"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-8B5CF6?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite (Exploring)"/>
+  <img src="https://img.shields.io/badge/Wireshark-0891B2?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark (Exploring)"/>
+</p>
 
 ---
 
@@ -632,22 +617,24 @@ Educational content covering:
 · Programming for security
 · Security awareness
 
-<div align="center">
-
-https://img.shields.io/badge/Telegram-CyberMohDZ-06B6D4?style=for-the-badge&logo=telegram&logoColor=white
-
-</div>
+<p align="center">
+  <a href="https://t.me/CyberMohDZ">
+    <img src="https://img.shields.io/badge/Telegram-CyberMohDZ-06B6D4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
 
 ---
 
 ▍ Connect
 
-<div align="center">
-
-https://img.shields.io/badge/GitHub-mohrix-8B5CF6?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Telegram-CyberMohDZ-06B6D4?style=for-the-badge&logo=telegram&logoColor=white
-
-</div>
+<p align="center">
+  <a href="https://github.com/mohrix">
+    <img src="https://img.shields.io/badge/GitHub-mohrix-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://t.me/CyberMohDZ">
+    <img src="https://img.shields.io/badge/Telegram-CyberMohDZ-06B6D4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
 
 ---
 
