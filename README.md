@@ -1,621 +1,532 @@
+```markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6D28D9,100:06B6D4&height=200&section=header&text=MOH%20DZ&fontSize=72&fontColor=FFFFFF&fontAlignY=40&desc=Penetration%20Testing%20%7C%20Cybersecurity%20%7C%20Security%20Research&descAlignY=62&descSize=17&animation=fadeIn" width="100%" alt="MOH DZ"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6D28D9,100:06B6D4&height=210&section=header&text=MOH%20DZ&fontSize=74&fontColor=FFFFFF&fontAlignY=40&desc=PENETRATION%20TESTING%20%E2%80%A2%20CYBERSECURITY%20%E2%80%A2%20SECURITY%20LABS&descAlignY=63&descSize=15&animation=fadeIn" width="100%" alt="MOH DZ"/>
 
 <a href="https://github.com/mohrix">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=680&lines=Penetration+Testing;Web+Security;Network+Security;Linux+%26+Termux;Python+Security+Automation;Security+Labs+%26+CTF;Learn+%E2%80%A2+Build+%E2%80%A2+Test+%E2%80%A2+Secure" alt="Typing SVG"/>
 </a>
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/PENETRATION_TESTING-6D28D9?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Penetration Testing"/>
+<img src="https://img.shields.io/badge/CYBERSECURITY-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white" alt="Cybersecurity"/>
+<img src="https://img.shields.io/badge/WEB_SECURITY-7C3AED?style=for-the-badge&logo=owasp&logoColor=white" alt="Web Security"/>
+<img src="https://img.shields.io/badge/NETWORK_SECURITY-0891B2?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Security"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/LINUX-1E1B4B?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+<img src="https://img.shields.io/badge/TERMUX-0F172A?style=for-the-badge&logo=android&logoColor=06B6D4" alt="Termux"/>
+<img src="https://img.shields.io/badge/PYTHON-0E7490?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/BASH-111827?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+<img src="https://img.shields.io/badge/GIT-6D28D9?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=mohrix&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/mohrix?style=flat-square&color=06B6D4&labelColor=0D1117&logo=github" alt="Followers"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING_%26_LEARNING-8B5CF6?style=flat-square&labelColor=0D1117" alt="Status"/>
+
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PENETRATION_TESTING-6D28D9?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Penetration Testing"/>
-  <img src="https://img.shields.io/badge/CYBERSECURITY-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white" alt="Cybersecurity"/>
-  <img src="https://img.shields.io/badge/WEB_SECURITY-7C3AED?style=for-the-badge&logo=owasp&logoColor=white" alt="Web Security"/>
-  <img src="https://img.shields.io/badge/NETWORK_SECURITY-0891B2?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Security"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LINUX-1E1B4B?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
-  <img src="https://img.shields.io/badge/TERMUX-0F172A?style=for-the-badge&logo=android&logoColor=06B6D4" alt="Termux"/>
-  <img src="https://img.shields.io/badge/PYTHON-0E7490?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/BASH-111827?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/GIT-6D28D9?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohrix&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/mohrix?style=flat-square&color=06B6D4&labelColor=0D1117&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/badge/STATUS-BUILDING_%26_LEARNING-8B5CF6?style=flat-square&labelColor=0D1117" alt="Status"/>
-</p>
-
 ---
 
-⚙️ Profile Status
+## `$` status --panel
 
 ```
-┌────────────────────────────────────────────────┐
-│  SECURITY FOCUS                                │
-│                                                │
-│  Primary    →  Penetration Testing             │
-│  Web        →  Web Security                    │
-│  Network    →  Network Security                │
-│  Platform   →  Linux / Termux                  │
-│  Automation →  Python / Bash                   │
-│  Practice   →  Labs / CTF                      │
-│  Approach   →  Learn → Test → Analyze → Secure │
-└────────────────────────────────────────────────┘
+
+┌────────────────────────────────────────────────────────────┐
+│  MOH DZ // SECURITY CONSOLE                                │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  PRIMARY FOCUS   →  PENETRATION TESTING                    │
+│  WEB             →  WEB SECURITY                           │
+│  NETWORK         →  NETWORK SECURITY                       │
+│  ENVIRONMENT     →  LINUX / TERMUX                         │
+│  AUTOMATION      →  PYTHON / BASH                          │
+│  PRACTICE        →  SECURITY LABS / CTF                    │
+│  MISSION         →  LEARN • BUILD • TEST • SECURE          │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+
 ```
 
 ---
 
-▍ About Me
+## ▍ About
 
-I'm Moh DZ — a cybersecurity learner and builder working toward penetration testing through practical, hands-on study of systems, networks, and web applications.
+**MOH DZ** — cybersecurity learner and builder working toward **penetration testing** through practical labs, documented experimentation, and continuous study of systems, networks, and web applications.
 
-My work centers on understanding how infrastructure behaves under the hood, then testing it in controlled and authorized environments to identify weaknesses and document defensive improvements. I operate primarily from a Linux / Termux environment, using mobile-first workflows as a discipline for learning fundamentals.
+I work primarily from a **Linux / Termux** environment, using a mobile-first workflow as a discipline for understanding the fundamentals of how systems actually behave. My focus is on real comprehension — not memorization — of protocols, services, requests, and controls.
 
-· Focus — Penetration Testing & Cybersecurity
-· Environment — Linux · Termux (mobile-first)
-· Automation — Python · Bash · JavaScript
-· Interest Areas — Web Security · Network Security · Reconnaissance · Enumeration · OSINT · CTF · Security Labs
-· Development — Security tooling · automation · local security laboratories · AI-assisted workflows
+- **Direction** — Penetration Testing · Cybersecurity
+- **Environment** — Linux · Termux
+- **Automation** — Python · Bash
+- **Domains** — Web Security · Network Security · OSINT · CTF · Security Labs
+- **Practice** — Local labs · controlled testing · technical documentation
+- **Philosophy** — `Understand > Memorize`
 
-Understand the system. Test the security. Improve the defense.
-
----
-
-🛡️ Security Identity
-
-This profile documents a direction: growing toward practical penetration testing through structured study, laboratory practice, and disciplined documentation.
-
-The security areas represented here are:
-
-Penetration Testing · Security Assessment · Web Security · Network Security · Linux Security · Security Automation · Security Research · CTF / Labs
-
-All security testing is limited to systems, applications, laboratories, and environments where explicit authorization has been granted.
+> _Understand the system. Test the security. Improve the defense._
 
 ---
 
-▍ Core Specialization
+## 🛡️ Security Identity
 
-<details open>
-<summary><b>🛡️ Penetration Testing</b></summary>
-
-<br/>
-
-01 · Reconnaissance
-
-· Passive reconnaissance
-· Information gathering
-· Attack surface understanding
-· Asset discovery concepts
-· Technology identification
-
-02 · Enumeration
-
-· Hosts · Ports · Services
-· DNS · HTTP · Application endpoints
-· Service identification
-
-03 · Vulnerability Analysis
-
-· Security misconfigurations
-· Authentication weaknesses
-· Authorization issues
-· Input validation
-· Exposure analysis
-· Vulnerability verification
-
-04 · Post-Assessment
-
-· Evidence collection
-· Technical documentation
-· Risk understanding
-· Remediation concepts
-· Security hardening
-
-</details>
-
-<details>
-<summary><b>🌐 Web Security</b></summary>
-
-<br/>
-
-· HTTP / HTTPS
-· Cookies & Sessions
-· Authentication & Authorization
-· Access Control
-· Input Validation
-· APIs
-· Security Headers
-· Web Application Architecture
-· OWASP Concepts
-· Secure Development
-
-</details>
-
-<details>
-<summary><b>🌍 Network Security</b></summary>
-
-<br/>
-
-· TCP/IP & IPv4
-· DNS
-· Ports & Services
-· HTTP / HTTPS / SSH
-· Client / Server Models
-· Network Enumeration
-· Service Discovery
-· Nmap
-· Network Troubleshooting
-
-</details>
-
-<details>
-<summary><b>🐧 Linux / Termux</b></summary>
-
-<br/>
-
-· Linux CLI
-· Bash
-· SSH
-· Filesystems & Permissions
-· Processes
-· Networking Utilities
-· Package Management
-· Automation
-
-</details>
-
----
-
-▍ Penetration Testing Methodology
+This profile documents a direction: growing toward **practical penetration testing** through structured study, laboratory practice, and disciplined documentation.
 
 ```
-        ┌────────────────────────┐
-        │         SCOPE          │
-        └───────────┬────────────┘
-                    ▼
-        ┌────────────────────────┐
-        │     RECONNAISSANCE     │
-        └───────────┬────────────┘
-                    ▼
-        ┌────────────────────────┐
-        │      ENUMERATION       │
-        └───────────┬────────────┘
-                    ▼
-        ┌────────────────────────┐
-        │  ATTACK SURFACE MAP    │
-        └───────────┬────────────┘
-                    ▼
-        ┌────────────────────────┐
-        │  VULNERABILITY         │
-        │  ANALYSIS              │
-        └───────────┬────────────┘
-                    ▼
-        ┌────────────────────────┐
-        │       VALIDATION       │
-        └───────────┬────────────┘
-                    ▼
-        ┌────────────────────────┐
-        │     IMPACT ANALYSIS    │
-        └───────────┬────────────┘
-                    ▼
-        ┌────────────────────────┐
-        │     DOCUMENTATION      │
-        └───────────┬────────────┘
-                    ▼
-        ┌────────────────────────┐
-        │      REMEDIATION       │
-        └───────────┬────────────┘
-                    ▼
-        ┌────────────────────────┐
-        │         RETEST         │
-        └────────────────────────┘
+
+WEB SECURITY       NETWORK SECURITY      LINUX SECURITY
+│                   │                   │
+└───────────────────┼───────────────────┘
+│
+▼
+SECURITY AUTOMATION · OSINT
+│
+▼
+CTF · SECURITY LABS
+
 ```
 
-Security testing is a process, not a single scan. Each phase builds context for the next — reconnaissance informs enumeration, enumeration drives analysis, and analysis validates against real impact. Documentation and retesting are what turn a test into an improvement.
+> All security testing is performed only in **owned systems, authorized environments, educational laboratories, and CTF platforms**.
 
 ---
 
-🌐 Web Security
+## ▍ Penetration Testing Methodology
+
+```
+
+```
+
+Methodology is a discipline, not a checklist. Each phase informs the next — reconnaissance shapes enumeration, enumeration drives analysis, and validated findings lead to documentation, remediation, and retest.
+
+> These activities are performed **only** in authorized environments, labs, CTFs, and systems where explicit permission exists.
+
+---
+
+## 🌐 Web Security
 
 Understanding how web applications are structured is a prerequisite for testing them meaningfully.
 
 ```
-   ┌──────────┐
-   │  CLIENT  │
-   └────┬─────┘
-        ▼
-   ┌──────────────┐
-   │  HTTP/HTTPS  │
-   └────┬─────────┘
-        ▼
-   ┌──────────────┐
-   │  WEB SERVER  │
-   └────┬─────────┘
-        ▼
-   ┌──────────────┐
-   │ APPLICATION  │
-   └────┬─────────┘
-        ▼
-   ┌──────────────┐
-   │     API      │
-   └────┬─────────┘
-        ▼
-   ┌──────────────┐
-   │   DATABASE   │
-   └──────────────┘
+
+┌──────────────────┐
+│   HTTP / HTTPS   │   ◄── testing surface
+└────────┬─────────┘
+▼
+┌──────────────────┐
+│   WEB SERVER     │   ◄── testing surface
+└────────┬─────────┘
+▼
+┌──────────────────┐
+│   APPLICATION    │   ◄── testing surface
+└────────┬─────────┘
+▼
+┌──────────────────┐
+│       API        │   ◄── testing surface
+└────────┬─────────┘
+▼
+┌──────────────────┐
+│    DATABASE      │
+└──────────────────┘
+
 ```
 
-Focus areas: HTTP fundamentals · Sessions · Cookies · Authentication · Authorization · Access Control · Input Validation · APIs · Security Headers · OWASP concepts · Secure development.
+**Study Areas**
+
+- HTTP / HTTPS — requests, responses, methods, status codes
+- Authentication & Authorization flows
+- Sessions & Cookies
+- Input Validation
+- Access Control
+- Security Headers
+- API Security
+- Web Reconnaissance
+- OWASP Top 10 concepts
+- Vulnerability Analysis
 
 ---
 
-🌍 Network Security
+## 🌍 Network Security
 
-The goal is understanding communication paths and attack surface — not just running scanning commands.
+The goal is understanding how data moves, where trust boundaries exist, and what the attack surface actually looks like — not just running a scan.
 
 ```
-        INTERNET
-           │
-        ┌──▼───┐
-        │ROUTER│
-        └──┬───┘
-           │
-      ┌────▼─────┐
-      │ NETWORK  │
-      └─┬──┬──┬──┘
-        │  │  │
-   ┌────▼┐ │  └────┐
-   │HOST │ │       │
-   └─────┘ │       │
-      ┌────▼──┐ ┌──▼────┐
-      │SERVER │ │  APP  │
-      └───────┘ └───────┘
+
+┌────────────────────────┐
+│    LOCAL NETWORK       │
+└────┬────────┬──────────┘
+│        │
+┌────▼───┐ ┌──▼──────┐
+│  HOST  │ │ SERVER  │
+└────────┘ └──┬──────┘
+▼
+┌─────────┐
+│   APP   │
+└─────────┘
+
 ```
 
-Focus areas: TCP/IP · IPv4 · Ports · Services · DNS · HTTP/HTTPS · SSH · Client/Server models · Network enumeration · Service discovery · Nmap.
+**Study Areas**
+
+- TCP/IP · OSI Model
+- Ports · Services
+- DNS
+- HTTP / HTTPS / SSH
+- Routing & Subnetting
+- Network Enumeration
+- Service Enumeration
+- Traffic Analysis
+- Network Hardening
 
 ---
 
-🐧 Linux & Termux
+## 🐧 Linux & Termux
 
-Termux is my mobile Linux environment — used as a full workstation for learning, programming, automation, networking, and security labs.
+Linux is the primary environment. Termux is used as a mobile Linux workstation for learning, scripting, networking, and laboratory practice.
 
 ```
-     ANDROID
-        │
-        ▼
-     TERMUX
-        │
-        ▼
-   LINUX ENV
-   ├── Bash
-   ├── Python
-   ├── Git
-   ├── SSH
-   ├── Nmap
-   ├── Node.js
-   └── Security Labs
+
+┌───────────────────────┐
+│   LINUX ENVIRONMENT   │
+├───────────────────────┤
+│  • Bash               │
+│  • Python             │
+│  • Git                │
+│  • SSH                │
+│  • Nmap               │
+│  • Networking Tools   │
+│  • Package Management │
+│  • Security Labs      │
+└───────────────────────┘
+
 ```
 
-Using Termux keeps the workflow command-line-first and forces a deeper understanding of the tools being used.
+**Focus Areas**
+
+- Linux CLI fundamentals
+- Bash scripting
+- Filesystems & Permissions
+- Processes & Package Management
+- SSH
+- Networking utilities
+- Automation workflows
+- Mobile-first laboratory environment
 
 ---
 
-▍ Security Toolkit
+## ▍ Security Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,nodejs,git,github,vscode,html,css,js&theme=dark&perline=10" alt="Toolkit"/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,nodejs,git,github,html,css,js&theme=dark&perline=9" alt="Toolkit"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Nmap-0E7490?style=flat-square&logo=nmap&logoColor=white" alt="Nmap"/>
-  <img src="https://img.shields.io/badge/OpenSSH-1E1B4B?style=flat-square&logo=openssh&logoColor=white" alt="OpenSSH"/>
-  <img src="https://img.shields.io/badge/cURL-111827?style=flat-square&logo=curl&logoColor=white" alt="cURL"/>
-  <img src="https://img.shields.io/badge/Termux-0F172A?style=flat-square&logo=android&logoColor=06B6D4" alt="Termux"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-8B5CF6?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite (Exploring)"/>
-  <img src="https://img.shields.io/badge/Wireshark-0891B2?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark (Exploring)"/>
-</p>
+**Reconnaissance**
+
+![Nmap](https://img.shields.io/badge/Nmap-Lab_Use-0E7490?style=flat-square&logo=nmap&logoColor=white)
+![cURL](https://img.shields.io/badge/cURL-Learning-111827?style=flat-square&logo=curl&logoColor=white)
+![DNS Utilities](https://img.shields.io/badge/DNS_Utilities-Learning-1E1B4B?style=flat-square&logo=internetcomputer&logoColor=white)
+
+**Network**
+
+![OpenSSH](https://img.shields.io/badge/OpenSSH-Learning-1E1B4B?style=flat-square&logo=openssh&logoColor=white)
+![iproute2](https://img.shields.io/badge/iproute2-Learning-0F172A?style=flat-square&logo=linux&logoColor=06B6D4)
+
+**Web**
+
+![Browser DevTools](https://img.shields.io/badge/Browser_DevTools-Learning-7C3AED?style=flat-square&logo=googlechrome&logoColor=white)
+![OWASP Tooling](https://img.shields.io/badge/OWASP_Tooling-Exploring-8B5CF6?style=flat-square&logo=owasp&logoColor=white)
+
+**Environment & Automation**
+
+![Termux](https://img.shields.io/badge/Termux-Active-0F172A?style=flat-square&logo=android&logoColor=06B6D4)
+![Linux](https://img.shields.io/badge/Linux-Active-1E1B4B?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Active-6D28D9?style=flat-square&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Active-0E7490?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Active-111827?style=flat-square&logo=gnubash&logoColor=white)
 
 ---
 
-▍ Skills Matrix
+## ▍ Skills Matrix
 
-Domain Focus Current Stage
-Penetration Testing Methodology · Labs 🟣 Active
-Web Security OWASP · HTTP · APIs 🟣 Active
-Network Security TCP/IP · DNS · Nmap 🟣 Active
-Linux CLI · Bash · System Concepts 🟣 Active
-Termux Mobile Linux · Automation 🟣 Active
-Python Automation · Security Tools 🟣 Active
-OSINT Information Gathering 🟡 Exploring
-CTF Practical Security Labs 🟣 Active
-
----
-
-💻 Programming & Automation
-
-Language Practical Usage
-Python Security automation · data processing · tool development · networking experiments
-Bash Linux automation · Termux workflows · system tasks
-JavaScript Web applications · client-side concepts · web security labs
-HTML / CSS Web architecture · security laboratories
-Node.js APIs · web applications · automation
+| Domain | Focus | Stage |
+|:---|:---|:---:|
+| Penetration Testing | Methodology · Labs | 🟣 Practicing |
+| Web Security | HTTP · OWASP · APIs | 🟣 Practicing |
+| Network Security | TCP/IP · DNS · Nmap | 🟣 Practicing |
+| Linux | CLI · Bash · System Concepts | 🟣 Building |
+| Termux | Mobile Linux · Automation | 🟣 Building |
+| Python | Security Automation | 🟣 Building |
+| Bash | Linux / Termux Automation | 🟣 Building |
+| Networking | Ports · Services · Protocols | 🟣 Practicing |
+| OSINT | Information Gathering | 🟡 Exploring |
+| Security Automation | Scripting · Tooling | 🟣 Building |
+| CTF | Practical Labs | 🟣 Practicing |
+| Documentation | Notes · Writeups · Reports | 🟣 Building |
 
 ---
 
-🧪 Security Laboratory
+## 💻 Programming & Automation
 
-I build local and controlled environments to understand how real systems behave — how vulnerabilities appear, how requests flow, how controls fail, and how defenses can be improved.
+Programming is used to **understand systems** and to **automate repetitive tasks** in security labs.
+
+| Language | Practical Role |
+|:---|:---|
+| **Python** | Automation · HTTP scripting · data processing · small security utilities · networking experiments |
+| **Bash** | Linux / Termux automation · CLI tooling · lab setup · repetitive task workflows |
+| **JavaScript** | Web application experiments · client-side concepts · web lab work |
+| **HTML / CSS** | Structuring web labs · interface experiments |
+| **Node.js** | Small APIs · automation scripts · web experiments |
+
+---
+
+## 🧪 Security Laboratory
 
 ```
-┌────────────────────────────────────┐
-│        MOH SECURITY LAB           │
-├────────────────────────────────────┤
-│                                    │
-│   Client                           │
-│     ↓                              │
-│   Web Application                  │
-│     ↓                              │
-│   API                              │
-│     ↓                              │
-│   Database                         │
-│                                    │
-│   Logs → Analysis → Hardening      │
-│                                    │
-└────────────────────────────────────┘
+
+┌──────────────────────────────────────────────┐
+│              MOH DZ — LAB                    │
+├──────────────────────────────────────────────┤
+│                                              │
+│   ├── Linux                                  │
+│   ├── Networking                             │
+│   ├── Web Applications                       │
+│   ├── APIs                                   │
+│   ├── Authentication & Authorization         │
+│   ├── Enumeration                            │
+│   ├── Vulnerability Analysis                 │
+│   ├── Python Automation                      │
+│   └── CTF Practice                           │
+│                                              │
+│   Logs  →  Analysis  →  Hardening            │
+│                                              │
+└──────────────────────────────────────────────┘
+
 ```
 
-Laboratory targets include: web vulnerabilities · authentication · authorization · network behavior · HTTP requests · APIs · enumeration · security controls · defensive fixes.
+All testing in the lab is performed on **owned systems and controlled environments** — no unauthorized targets.
 
 ---
 
-▍ Project Portfolio
+## ▍ Project Portfolio
 
-Featured repositories will be added as projects mature. Nothing is listed unless it exists.
+> Repositories will be listed here as they are published. Nothing is listed unless it exists.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-🔐 Security Projects
+**🔐 Security Tools**
 
-Applied security work — labs, tests, and documented findings from controlled environments.
+Utility scripts and small tools built to understand and automate security-lab workflows.
 
-</td>
-<td width="50%" valign="top">
-
-📱 Termux Projects
-
-Mobile-first tooling and Linux workflows built directly on Android.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-🌐 Web Security Labs
-
-Web application security practice, analysis, and reproducible lab setups.
+`Coming Soon`
 
 </td>
 <td width="50%" valign="top">
 
-🐍 Python Tools
+**🌐 Web Security Labs**
 
-Automation scripts for reconnaissance, enumeration, and structured data processing.
+Reproducible web application labs for practicing request analysis, authentication flows, and access control.
+
+`Coming Soon`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-🤖 AI Projects
+**📱 Termux Projects**
 
-Exploring the intersection of AI-assisted workflows and security tooling.
+Mobile-first tooling and workflow setups built directly on Termux.
+
+`Coming Soon`
 
 </td>
 <td width="50%" valign="top">
 
-💻 Software Projects
+**🐍 Python Automation**
 
-General-purpose utilities and developer tools built along the way.
+Automation scripts for reconnaissance, data processing, and lab management.
+
+`Coming Soon`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📝 CTF Writeups**
+
+Structured writeups of CTF challenges — approach, reasoning, and lessons learned.
+
+`Coming Soon`
+
+</td>
+<td width="50%" valign="top">
+
+**📚 Learning Projects**
+
+Educational projects documenting concepts across Linux, networking, and cybersecurity.
+
+`Coming Soon`
 
 </td>
 </tr>
 </table>
 
-Project Philosophy
-
-```
-BUILD  →  TEST  →  DOCUMENT  →  IMPROVE
-```
-
 ---
 
-▍ Current Project Direction
-
-· Penetration Testing Learning — structured study and methodology practice
-· Security Labs — building reproducible, controlled environments
-· Termux Security Experiments — mobile-first security workflows
-· Python Automation — tooling and scripting for security tasks
-· Web Security — practical application of OWASP concepts
-· Cybersecurity Content — educational material under Cyber Moh
-· Security Tool Development — small, focused, documented utilities
-
----
-
-▍ Knowledge Architecture
+## ▍ Knowledge Architecture
 
 ```
-                         MOH DZ
-                            │
-              ┌─────────────┼─────────────┐
-              │             │             │
-              ▼             ▼             ▼
-        PENETRATION     PROGRAMMING    NETWORKING
-          TESTING            │             │
-              │              ▼             ▼
-        ┌─────┼─────┐      Python        TCP/IP
-        │     │     │      Bash          DNS
-        ▼     ▼     ▼      JS            Ports
-       WEB   NET   OSINT                 Nmap
-        │     │
-        └─────┴─────────────┐
-                            ▼
-                     LINUX / TERMUX
-                            │
-                            ▼
-                     SECURITY LABS
-                            │
-                            ▼
-                     SECURITY RESEARCH
+
+Web Security   Network Security     OSINT
+│                │                │
+└────────────────┼────────────────┘
+▼
+PENETRATION TESTING
+┌────────────────┼────────────────┐
+│        │       │       │        │
+▼        ▼       ▼       ▼        ▼
+Recon   Enum    Analysis  Testing  Reporting
+│
+▼
+ADVANCED PRACTICE
+┌────────────────┼────────────────┐
+│                │                │
+▼                ▼                ▼
+Automation         Labs             CTF / Research
+
 ```
 
 ---
 
-▍ Penetration Testing Roadmap
+## ▍ Roadmap
 
-Phase Focus Status
-01 Linux Fundamentals 🟣 Active
-02 Networking Fundamentals 🟣 Active
-03 Web Fundamentals 🟣 Active
-04 Python & Automation 🟣 Active
-05 Reconnaissance & Enumeration 🟣 Active
-06 Web Security 🟡 In Progress
-07 Network Security 🟡 In Progress
-08 Security Testing Methodology 🟡 In Progress
-09 CTF / Practical Labs 🟡 In Progress
-10 Security Research & Documentation ⚪ Planned
-
----
-
-▍ Frameworks & Methodologies
-
-Currently studying and learning — not certified, not claiming mastery.
-
-Framework Focus Area
-OWASP Web application security concepts and testing guidance
-MITRE ATT&CK Adversary tactics, techniques, and procedures
-NIST Cybersecurity framework concepts and risk management
+| Phase | Focus | Status |
+|:---:|:---|:---:|
+| 01 | Linux Fundamentals | 🟣 Active |
+| 02 | Networking Fundamentals | 🟣 Active |
+| 03 | Python & Bash | 🟣 Active |
+| 04 | Web Fundamentals | 🟣 Active |
+| 05 | Web Security | 🟡 In Progress |
+| 06 | Network Security | 🟡 In Progress |
+| 07 | Reconnaissance | 🟡 In Progress |
+| 08 | Enumeration | 🟡 In Progress |
+| 09 | Vulnerability Analysis | 🟡 In Progress |
+| 10 | Security Testing | 🟡 In Progress |
+| 11 | Reporting | 🟡 In Progress |
+| 12 | Automation | 🟡 In Progress |
+| 13 | CTF & Advanced Labs | ⚪ Planned |
 
 ---
 
-📚 Documentation
+## ▍ Frameworks & Standards
 
-Every useful lab should produce a documented trail:
+Currently **studying** — not certified, not claiming mastery.
+
+| Framework | Focus Area |
+|:---|:---|
+| **OWASP** | Web application security concepts |
+| **OWASP Top 10** | Common web risk categories |
+| **MITRE ATT&CK** | Adversary tactics, techniques, and procedures |
+| **NIST** | Cybersecurity framework concepts |
+| **Penetration Testing Methodology** | Structured testing lifecycle |
+| **Responsible Disclosure** | Ethical reporting of findings |
+
+---
+
+## 📚 Documentation
+
+Documentation is part of the work, not an afterthought. Every meaningful lab produces a trail:
 
 ```
+
 Observation  →  Evidence  →  Analysis  →  Impact  →  Remediation  →  Retest
+
 ```
 
-Documentation is not a formality — it is the part of security work that turns an experiment into knowledge and a finding into an improvement.
+**What gets documented**
+
+- Lab notes and setup steps
+- Technical explanations of concepts
+- CTF writeups with reasoning
+- Command purpose — *why*, not just *what*
+- Methodology notes and lessons learned
+
+> _"Understand why — not just memorize commands."_
 
 ---
 
-▍ Learning Philosophy
+## ▍ Currently Learning
+
+| Topic | Status |
+|:---|:---:|
+| Penetration Testing | 🟣 Active |
+| Web Security | 🟣 Active |
+| Networking | 🟣 Active |
+| Linux | 🟣 Active |
+| Termux | 🟣 Active |
+| Python | 🟣 Active |
+| Security Labs | 🟣 Active |
+| CTF | 🟡 Exploring |
+| English Cybersecurity Vocabulary | 🟡 Exploring |
+
+---
+
+## ▍ Current Goals
+
+- [ ] Build stronger penetration-testing fundamentals
+- [ ] Develop practical, reusable security labs
+- [ ] Build useful security tools
+- [ ] Improve Python automation
+- [ ] Improve networking knowledge
+- [ ] Document security learning consistently
+- [ ] Publish educational projects
+- [ ] Build a strong cybersecurity portfolio
+
+---
+
+## ▍ GitHub Statistics
 
 <div align="center">
 
-UNDERSTAND > MEMORIZE
-
-</div>
-
-```
-Learn  →  Understand  →  Build  →  Break  →  Analyze  →  Fix  →  Document  →  Secure
-```
-
-"I don't want to memorize commands. I want to understand what happens behind them."
-
----
-
-▍ Currently Learning
-
-Topic Status
-Penetration Testing 🟣 Active
-Web Security 🟣 Active
-Network Security 🟣 Active
-Linux 🟣 Active
-Termux 🟣 Active
-Python 🟣 Active
-CTF 🟣 Active
-OSINT 🟡 Exploring
-Security Research 🟡 Exploring
-Technical English 🟡 Exploring
-
----
-
-▍ Current Goals
-
-Completed fundamentals
-
-☑ Build Linux fundamentals
-☑ Explore Termux as a working environment
-☑ Study networking basics
-☑ Build local development and security labs
-
-Active
-
-☐ Improve penetration testing methodology
-☐ Deepen web security knowledge
-☐ Improve network security understanding
-☐ Build Python security tools
-☐ Expand security laboratories
-☐ Practice CTF methodology
-☐ Improve technical English
-
-Future
-
-☐ Contribute to open-source security projects
-☐ Publish technical research
-☐ Build larger security tools
-☐ Participate in authorized security programs
-
----
-
-▍ GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohrix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=FFFFFF&count_private=true" alt="GitHub Overview"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohrix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=FFFFFF&count_private=true" alt="GitHub Stats"/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohrix&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&langs_count=6" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=mohrix&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=06B6D4&currStreakLabel=06B6D4" alt="Contribution Streak"/>
+<img src="https://streak-stats.demolab.com?user=mohrix&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=06B6D4&currStreakLabel=06B6D4" alt="Streak"/>
 
 </div>
 
 ---
 
-🌍 Open Source
+## 🌍 Open Source
 
-Future direction for open-source contributions:
+Areas of interest for future contribution:
 
-· Security tooling
-· Educational labs
-· Automation utilities
-· Developer utilities
-· Technical documentation
-· Cybersecurity learning resources
+- Security tools
+- Linux tools
+- Python utilities
+- Educational resources
+- Security labs
+- Technical documentation
 
 Contributions will appear here as they are made.
 
 ---
 
-▍ Cybersecurity Education — Cyber Moh
+## ▍ Cyber Moh — Cybersecurity Education
 
-Educational content covering:
+**CYBER MOH** is a cybersecurity education direction — teaching from the fundamentals upward.
 
-· Cybersecurity fundamentals
-· Linux & Termux
-· Penetration testing concepts
-· Programming for security
-· Security awareness
+**Topics covered**
+
+`Linux` · `Termux` · `Networking` · `Python` · `Cybersecurity` · `OSINT` · `Labs` · `CTF` · `Privacy`
 
 <p align="center">
   <a href="https://t.me/CyberMohDZ">
@@ -625,7 +536,7 @@ Educational content covering:
 
 ---
 
-▍ Connect
+## ▍ Connect
 
 <p align="center">
   <a href="https://github.com/mohrix">
@@ -638,20 +549,23 @@ Educational content covering:
 
 ---
 
-▍ Responsible Security Disclaimer
+## ▍ Responsible Security
 
-Security research should be conducted responsibly, ethically, and only against systems for which explicit authorization has been granted. Everything documented on this profile is intended for education, defense, and authorized testing within controlled environments.
+All security testing, experimentation, scanning, and research shown or referenced in this profile are intended for **systems I own, authorized environments, educational laboratories, and CTF platforms**.
+
+I do not encourage, promote, or support unauthorized access to any system.
 
 ---
 
 <div align="center">
 
-🛡️ PENETRATION TESTING · 🌐 WEB SECURITY · 🌍 NETWORK SECURITY · 🐧 LINUX / TERMUX · 🐍 PYTHON
+### 🛡️ PENETRATION TESTING · 🌐 WEB SECURITY · 🌍 NETWORK SECURITY · 🐧 LINUX / TERMUX · 🐍 PYTHON
 
-LEARN • BUILD • TEST • SECURE 🇩🇿
+**LEARN • BUILD • TEST • SECURE 🇩🇿**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6D28D9,100:8B5CF6&height=120&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6D28D9,100:0D1117&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
+```
