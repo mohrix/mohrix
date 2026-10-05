@@ -1,291 +1,263 @@
+<div align="center">
 
-<div align="center">⚡ MOH DZ
+MOH DZ
 
-🛡️ Cybersecurity • 💻 Programming • 🐧 Linux • 🌐 Networking
+Penetration Testing • Cybersecurity • Security Research
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&enter=true&vCenter=true&width=650&lines=Cybersecurity+Learner;Python+Developer;Linux+%26+Termux+Enthusiast;Networking+%26+Web+Security;Building+%7C+Testing+%7C+Learning" /><br><img src="https://img.shields.io/badge/CYBERSECURITY-8B5CF6?style=for-the-badge&logo=hackthebox&logoColor=white" />
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/TERMUX-000000?style=for-the-badge&logo=termux&logoColor=white" /></div>---
+<a href="https://github.com/mohrix">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=600&lines=Penetration+Testing;Web+Security;Network+Security;Linux+%26+Termux;Python+Security+Automation;Security+Labs+%26+CTF;Learn+%7C+Test+%7C+Secure" alt="Typing SVG" />
+</a>
 
-🧬 About Me
+<br/>
 
-Name        : Moh DZ
-Focus       : Cybersecurity & Software Development
-Environment : Linux / Termux
-Interests   : Security • Programming • Networking • Open Source
-Approach    : Learn → Build → Test → Understand
+https://img.shields.io/badge/PENETRATION_TESTING-6D28D9?style=for-the-badge&logo=hackthebox&logoColor=white
+https://img.shields.io/badge/WEB_SECURITY-7C3AED?style=for-the-badge&logo=owasp&logoColor=white
+https://img.shields.io/badge/NETWORK_SECURITY-0891B2?style=for-the-badge&logo=cisco&logoColor=white
+https://img.shields.io/badge/LINUX-1E1B4B?style=for-the-badge&logo=linux&logoColor=white
+https://img.shields.io/badge/PYTHON-0E7490?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/TERMUX-111827?style=for-the-badge&logo=android&logoColor=22D3EE
 
-I'm Moh, a cybersecurity and programming enthusiast focused on developing practical technical knowledge through projects, laboratories, experimentation, and continuous learning.
-
-My main interests are Cybersecurity, Ethical Hacking fundamentals, Linux, Termux, Networking, Web Security, Python and Software Development.
-
-«⚡ I don't want to simply memorize commands — I want to understand what happens behind them.»
+</div>
 
 ---
 
-🛡️ Specialization
+<span style="color:#A855F7">▍</span> About Me
 
-<table>
-<tr>
-<td width="50%">🔐 Cybersecurity
+I'm Moh DZ, a cybersecurity learner and builder focused on Penetration Testing and practical security knowledge.
 
-- Ethical Hacking Fundamentals
-- Reconnaissance
-- Information Gathering
-- Network Security
-- Web Security Fundamentals
-- Vulnerability Assessment
-- Security Testing
-- CTF / Security Labs
-- OSINT Fundamentals
-- OWASP Concepts
-- MITRE ATT&CK Fundamentals
+My work centers on understanding how systems, networks, and web applications behave, then testing them in controlled and authorized environments to strengthen their defenses.
 
-</td><td width="50%">🌐 Networking
+· Focus: Penetration Testing & Cybersecurity
+· Environment: Linux / Termux (mobile-first workflow)
+· Programming: Python, Bash, JavaScript
+· Interests: Web Security, Network Security, OSINT, CTF, Security Labs
+· Approach: Learn → Build → Test → Analyze → Secure
 
-- TCP/IP
-- IP Addressing
-- Ports & Services
-- DNS
-- HTTP / HTTPS
-- Client / Server Architecture
-- Network Scanning
-- Network Enumeration
-- Network Troubleshooting
-- Nmap
-
-</td>
-</tr><tr>
-<td>🐧 Linux & Termux
-
-- Linux CLI
-- Termux
-- Bash
-- SSH
-- File Management
-- Process Management
-- Permissions
-- Package Management
-- Networking Utilities
-- Linux Troubleshooting
-
-</td><td>💻 Development
-
-- Python
-- JavaScript
-- HTML
-- CSS
-- Bash
-- Git
-- GitHub
-- Node.js
-- REST APIs
-- Automation
-
-</td>
-</tr>
-</table>---
-
-💻 Programming Languages
-
-<div align="center"><img src="https://skillicons.dev/icons?i=python,javascript,html,css,bash&theme=dark" /><br><br>
-
-Language| Focus
-🐍 Python| Automation • Security • Tools
-🟨 JavaScript| Web • Applications
-🌐 HTML| Web Structure
-🎨 CSS| Web Interfaces
-🐚 Bash| Linux • Termux • Automation
-
-</div>---
-
-🧰 Technologies & Tools
-
-<div align="center"><img src="https://skillicons.dev/icons?i=linux,git,github,nodejs,vscode&theme=dark" /><br><br>
-
-<img src="https://img.shields.io/badge/Nmap-004A7C?style=for-the-badge&logo=nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenSSH-222222?style=for-the-badge&logo=openssh&logoColor=white" />
-<img src="https://img.shields.io/badge/cURL-073551?style=for-the-badge&logo=curl&logoColor=white" /></div>---
-
-🔎 Cybersecurity Knowledge
-
-Reconnaissance
-      │
-      ▼
-Information Gathering
-      │
-      ▼
-Enumeration
-      │
-      ▼
-Vulnerability Analysis
-      │
-      ▼
-Security Testing
-      │
-      ▼
-Documentation
-      │
-      ▼
-Defense & Hardening
-
-Areas I Study
-
-Domain| Topics
-🔎 Recon| Information Gathering • Enumeration
-🌐 Web| HTTP • HTTPS • Web Security
-🔐 Security| Authentication • Authorization • Vulnerabilities
-🌍 Network| TCP/IP • DNS • Ports • Services
-🕵️ OSINT| Public Information Research
-🧪 Labs| CTF • Local Labs • Security Testing
-📚 Frameworks| OWASP • MITRE ATT&CK • NIST Concepts
+Understand the system. Test the security. Improve the defense.
 
 ---
+
+<span style="color:#A855F7">▍</span> Core Specialization
+
+🛡️ Penetration Testing
+
+Reconnaissance · Information Gathering · Enumeration · Vulnerability Assessment · Security Testing · Authentication Testing · Authorization Testing · Security Misconfiguration · Security Documentation · Security Methodology
+
+🌐 Web Security
+
+HTTP / HTTPS · Cookies & Sessions · Authentication · Authorization · Input Validation · Access Control · API Security · OWASP Concepts · Web Application Architecture · Secure Development
+
+🌍 Network Security
+
+TCP/IP · IP Addressing · DNS · Ports & Services · Service Discovery · Network Enumeration · Network Troubleshooting · Nmap
 
 🐧 Linux / Termux
 
-<div align="center">ANDROID
-   │
-   ▼
- TERMUX
-   │
-   ├── Linux CLI
-   ├── Python
-   ├── Git
-   ├── SSH
-   ├── Nmap
-   ├── Node.js
-   └── Security Labs
-
-</div>My mobile environment is also a practical learning laboratory where I explore Linux commands, networking, programming, automation and cybersecurity concepts.
+Linux CLI · Bash · SSH · Filesystems · Permissions · Processes · Networking Utilities · Package Management · Automation
 
 ---
 
-🚀 Projects
+<span style="color:#A855F7">▍</span> Security Methodology
 
-🔐 Cybersecurity Projects
+```
+        ┌───────────────────┐
+        │       SCOPE       │
+        └─────────┬─────────┘
+                  ▼
+        ┌───────────────────┐
+        │   RECONNAISSANCE  │
+        └─────────┬─────────┘
+                  ▼
+        ┌───────────────────┐
+        │    ENUMERATION    │
+        └─────────┬─────────┘
+                  ▼
+        ┌───────────────────┐
+        │ VULNERABILITY     │
+        │ ANALYSIS          │
+        └─────────┬─────────┘
+                  ▼
+        ┌───────────────────┐
+        │  SECURITY TESTING │
+        └─────────┬─────────┘
+                  ▼
+        ┌───────────────────┐
+        │    VALIDATION     │
+        └─────────┬─────────┘
+                  ▼
+        ┌───────────────────┐
+        │  DOCUMENTATION    │
+        └─────────┬─────────┘
+                  ▼
+        ┌───────────────────┐
+        │ REMEDIATION /     │
+        │ HARDENING         │
+        └───────────────────┘
+```
 
-Security-focused experiments, educational laboratories and tools designed to understand cybersecurity concepts.
-
-📱 Termux Projects
-
-Mobile Linux environments, scripts, automation and command-line experiments.
-
-💻 Software Projects
-
-Applications, websites, utilities and experimental development projects.
-
-🤖 AI Projects
-
-Exploring AI-assisted development and building applications that combine programming with artificial intelligence.
-
----
-
-📚 Currently Learning
-
-<div align="center">Field| Status
-🛡️ Cybersecurity| 🟣 Active
-🌐 Networking| 🟣 Active
-🐍 Python| 🟣 Active
-🐧 Linux / Termux| 🟣 Active
-🌐 Web Security| 🟣 Active
-💻 Software Development| 🟣 Active
-🇬🇧 Technical English| 🟣 Active
-
-</div>---
-
-🧠 Knowledge Map
-
-                    ┌──────────────────┐
-                    │     MOH DZ       │
-                    └────────┬─────────┘
-                             │
-        ┌────────────────────┼────────────────────┐
-        │                    │                    │
-        ▼                    ▼                    ▼
-  CYBERSECURITY          PROGRAMMING          NETWORKING
-        │                    │                    │
-   ┌────┼────┐          ┌────┼────┐          ┌────┼────┐
-   │    │    │          │    │    │          │    │    │
-  WEB  OSINT CTF       Python JS  Bash      TCP  DNS  Nmap
-   │         │            │                    │
-   └────┬────┘            └────────┬───────────┘
-        │                          │
-        ▼                          ▼
-   SECURITY LABS              LINUX / TERMUX
+Ethical Statement: All security testing is performed only against systems, applications, laboratories, and environments where authorization is provided.
 
 ---
 
-🎯 Goals
+<span style="color:#A855F7">▍</span> Security Toolkit
 
-[✓] Build strong fundamentals
-[✓] Practice through real laboratories
-[→] Deepen cybersecurity knowledge
-[→] Improve Python development
-[→] Master Linux & networking
-[→] Build useful security tools
-[→] Develop larger software projects
-[→] Contribute to Open Source
-[→] Improve technical English
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,nodejs,js,html,css,vscode&theme=dark" alt="Toolkit" />
+
+
+
+
+
+https://img.shields.io/badge/Nmap-0E7490?style=flat-square&logo=nmap&logoColor=white
+https://img.shields.io/badge/OpenSSH-1E1B4B?style=flat-square&logo=openssh&logoColor=white
+https://img.shields.io/badge/cURL-111827?style=flat-square&logo=curl&logoColor=white
+https://img.shields.io/badge/Termux-0F172A?style=flat-square&logo=android&logoColor=22D3EE
+
+</div>
 
 ---
 
-📊 GitHub Activity
+<span style="color:#A855F7">▍</span> Programming
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" /><br><img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" /></div>---
+Language Role
+Python Security automation · tooling · data processing
+Bash Linux / Termux automation
+JavaScript Web applications · web security labs
+HTML Web structure · security labs
+CSS Web interfaces
 
-🧪 Learning Philosophy
+---
 
-<div align="center">"UNDERSTAND > MEMORIZE"
+<span style="color:#A855F7">▍</span> Featured Projects
 
-Learn
+Repositories will appear here as they are published. Categories are maintained honestly — nothing is listed unless it exists.
 
-↓
+Category Description Status
+🔐 Security Labs Controlled lab environments for practicing methodology and testing scenarios Coming Soon
+📱 Termux Projects Mobile-first security tooling and Linux workflows on Android Coming Soon
+🐍 Python Security Tools Automation scripts for recon, enumeration, and data processing Coming Soon
+🌐 Web Security Labs Hands-on web application security practice and analysis Coming Soon
+🤖 AI Security Projects Exploring intersections of AI and security workflows Coming Soon
+💻 Software Projects General-purpose tools and utilities built along the way Coming Soon
 
-Experiment
+---
 
-↓
+<span style="color:#A855F7">▍</span> Currently Learning
 
-Break
+Area Status
+Penetration Testing 🟣 Active
+Web Security 🟣 Active
+Network Security 🟣 Active
+Linux 🟣 Active
+Termux 🟣 Active
+Python 🟣 Active
+Reconnaissance 🟡 Exploring
+Security Labs 🟡 Exploring
+CTF 🟡 Exploring
+Technical English 🟡 Exploring
+Advanced Security Research ⚪ Planned
 
-↓
+---
 
-Analyze
+<span style="color:#A855F7">▍</span> Knowledge Map
 
-↓
+```
+                    ┌──────────────┐
+                    │   MOH DZ     │
+                    └──────┬───────┘
+                           │
+        ┌──────────────────┼──────────────────┐
+        │                  │                  │
+        ▼                  ▼                  ▼
+┌───────────────┐  ┌───────────────┐  ┌───────────────┐
+│ PENETRATION   │  │  WEB SECURITY │  │   NETWORK     │
+│   TESTING     │  │               │  │   SECURITY    │
+└───────┬───────┘  └───────┬───────┘  └───────┬───────┘
+        │                  │                  │
+        └──────────────────┼──────────────────┘
+                           │
+        ┌──────────────────┼──────────────────┐
+        │                  │                  │
+        ▼                  ▼                  ▼
+┌───────────────┐  ┌───────────────┐  ┌───────────────┐
+│  LINUX /      │  │    PYTHON     │  │   SECURITY    │
+│   TERMUX      │  │  AUTOMATION   │  │     LABS      │
+└───────────────┘  └───────────────┘  └───────────────┘
+```
 
-Build
+---
 
-↓
+<span style="color:#A855F7">▍</span> Learning Philosophy
 
-Secure
+<div align="center">
 
-</div>---
+UNDERSTAND > MEMORIZE
 
-🌐 Connect
+</div>
 
-<div align="center"><a href="https://github.com/mohrix">
-<img src="https://img.shields.io/badge/GitHub-Moh%20DZ-181717?style=for-the-badge&logo=github" />
-</a></div>---
+```
+Learn  →  Understand  →  Build  →  Test  →  Analyze  →  Document  →  Secure
+```
 
-<div align="center">🛡️ CYBERSECURITY • 💻 PROGRAMMING • 🐧 LINUX • 🌐 NETWORKING
+The goal is not to memorize commands, but to understand what happens behind them — how a protocol behaves, why a request succeeds or fails, and how a system can be strengthened based on that knowledge. Every tool is a way to answer a question; the real skill is knowing which question to ask.
 
-LEARN • BUILD • TEST • SECURE 🇩🇿
+---
 
-<br><img src="https://komarev.com/ghpvc/?username=mohrix&style=for-the-badge&color=8B5CF6" /></div>
-<!--
-**mohrix/mohrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<span style="color:#A855F7">▍</span> GitHub Stats
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohrix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohrix&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=mohrix&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=22D3EE&currStreakLabel=22D3EE" alt="Streak Stats" />
+
+</div>
+
+---
+
+<span style="color:#A855F7">▍</span> Goals
+
+☑ Build strong cybersecurity fundamentals
+☑ Learn Linux and networking
+☐ Improve penetration testing methodology
+☐ Deepen web security knowledge
+☐ Build security laboratories
+☐ Develop Python security tools
+☐ Improve security research skills
+☐ Contribute to open source
+☐ Improve technical English
+
+---
+
+<span style="color:#A855F7">▍</span> Security Disclaimer
+
+This profile is focused on cybersecurity education, authorized security testing, research, laboratories, and defensive security.
+
+All testing must be performed only on systems where explicit authorization has been granted.
+
+---
+
+<span style="color:#A855F7">▍</span> Connect
+
+<div align="center">
+
+https://img.shields.io/badge/GitHub-mohrix-6D28D9?style=for-the-badge&logo=github&logoColor=white
+
+Telegram · CyberMohDZ — coming soon
+
+</div>
+
+---
+
+<div align="center">
+
+🛡️ PENETRATION TESTING · 🌐 WEB SECURITY · 🌍 NETWORK SECURITY · 🐧 LINUX / TERMUX · 🐍 PYTHON
+
+LEARN • TEST • SECURE 🇩🇿
+
+</div>
